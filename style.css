@@ -1,0 +1,93 @@
+.navbar-custom-color {
+    background-color: #1D428A; /* Color for navbar */
+}
+
+#logo {
+	color: #FFC72C;
+}
+
+#profile-description {
+	background-color: #FFC72C;
+}
+
+#most-recent-posts {
+	margin: 20px;
+}
+
+#main-header {
+	background-image: url(images/header.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100%;
+    width: 100%;
+    color: white;
+    font-size: 30px;
+	text-align: center;
+}
+
+#profile-header1 {
+	background-image: url(images/profile-header-pics/profile-header1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100%;
+    width: 100%;
+    padding: 175px;
+}
+
+#profile-header2 {
+	background-image: url(images/profile-header-pics/profile-header2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100%;
+    width: 100%;
+    padding: 175px;
+}
+
+#profile-header3 {
+	background-image: url(images/profile-header-pics/profile-header3.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100%;
+    width: 100%;
+    padding: 175px;
+}
+
+.header-bg {
+	padding: 100px;
+}
+
+.header-name {
+	font-size: 60px;
+	color: #FFC72C;
+	text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.profile-recent-post-titles {
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+#welcome-text {
+	color: #FFC72C;
+	text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+#search-bar-form {
+	width: 800px;
+}
+
+#register-page-termsConditions-text {
+	color: #a6a6a6;	
+}
